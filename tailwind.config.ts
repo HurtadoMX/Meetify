@@ -20,6 +20,10 @@ const config = {
     },
     extend: {
       colors: {
+        dark: {
+          1: "#1c1f2e",
+          2: "#161925",
+        },
         fill: {
           "1": "rgba(255, 255, 255, 0.10)",
         },
