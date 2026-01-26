@@ -60,6 +60,15 @@ const config = {
         sky: {
           "1": "#F3F9FF",
         },
+        orange: {
+          1: "#ff742e",
+        },
+        purple: {
+          1: "#830ef9",
+        },
+        yellow: {
+          1: "#f9a90e",
+        },
         black: {
           "1": "#00214F",
           "2": "#344054",
@@ -119,6 +128,7 @@ const config = {
         "gradient-mesh": "url('/icons/gradient-mesh.svg')",
         "bank-green-gradient":
           "linear-gradient(90deg, #01797A 0%, #489399 100%)",
+        hero: "url('/images/hero-background.png')",
       },
 
       boxShadow: {
