@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <br />
       <img src="/public/icons/meetify.png" alt="Project Banner">
   
