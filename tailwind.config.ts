@@ -23,6 +23,7 @@ const config = {
         dark: {
           1: "#1c1f2e",
           2: "#161925",
+          3: "#4a4e69",
         },
         fill: {
           "1": "rgba(255, 255, 255, 0.10)",
@@ -59,6 +60,7 @@ const config = {
         },
         sky: {
           "1": "#F3F9FF",
+          "2": "#F3F9FF",
         },
         orange: {
           1: "#ff742e",
